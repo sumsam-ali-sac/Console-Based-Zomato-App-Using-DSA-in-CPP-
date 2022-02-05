@@ -7,8 +7,11 @@ project is in the niche of the food and restaurant. The basic idea of this proje
 
 # About the files and Dataset:
 **1.Zomato App.cpp:** This file has all the cpp code
+
 **2.Dataset link:** [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants) 
+
 **3.PASSWORDS.txt:** A text file containing decryptred passwords of a all users
+
 **4.DECRYPTED_PASSWORDS.txt:** A text file containing encryptred passwords of all users
 
 # Project obstacles:
