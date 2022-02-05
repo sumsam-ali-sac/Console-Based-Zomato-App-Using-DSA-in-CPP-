@@ -5,6 +5,12 @@ A Console Based Zomato App Using DSA in CPP and Kaggle Dataset for Zomato Restau
 This project is all about helping the customers or users find the best business but, in this case, we have used restaurant data-set, hence the businesses we are going to help with our this
 project is in the niche of the food and restaurant. The basic idea of this project is to give the best restaurant or suggest the users the best restaurants according to their preferences. The project also helps in giving them best restaurants according to location, price, area, rating and type of the restaurant
 
+# About the files and Dataset:
+**1.Zomato App.cpp:** This file has all the cpp code
+**2.Dataset link:** [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants) 
+**3.PASSWORDS.txt:** A text file containing decryptred passwords of a all users
+**4.DECRYPTED_PASSWORDS.txt:** A text file containing encryptred passwords of all users
+
 # Project obstacles:
 
 1.**Proper reading and writing of Data-set file:** This was the very first obstacle that we encountered and it was the core problem as it affects the overall running and implementation of the project and idea into a working and usable and good to use. The dataset we chose was about different restaurants in the given areas, i.e., Bengaluru. Thoughted set was not that huge, we managed to add other random restaurants also, just to hit the mark of 1GB of data file.
