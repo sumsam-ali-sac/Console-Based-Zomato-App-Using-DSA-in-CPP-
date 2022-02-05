@@ -1,4 +1,4 @@
-# H1 Console-Based-Zomato-App-Using-DSA-in-CPP-
+# Console-Based-Zomato-App-Using-DSA-in-CPP
 A Console Based Zomato App Using DSA in CPP and Kaggle Dataset for Zomato Restaurants in Bengaluru
 
 # Abstract:
